@@ -26,5 +26,3 @@ def number_guessing_game()
 end
 
 number_guessing_game()
-
-

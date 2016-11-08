@@ -3,8 +3,7 @@
 
 def guessing_game()
 	random_number = rand(50)
-	# Number is placed just for test purposes. Will be removed later.
-	puts random_number
+	
 	user_attempt = 1
 
 	puts "Let's play a game, you guess a random number between 1 and 50. Don't you worry I'll give you hints along the way. You have 5 tries to guess correctly."
